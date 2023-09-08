@@ -5,4 +5,3 @@ Resultado= not var_2
 maquina="x"
 maquina=var_3 and (var_2 or var_1)
 print(maquina)
-LEIDY GOMEZ
